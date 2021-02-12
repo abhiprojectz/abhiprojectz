@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**abhiprojectz/abhiprojectz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](./img/top.svg)
 
-Here are some ideas to get you started:
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love coding in Python :snake: and Node.js.I make open source projects mostly.
+
+# Things i code in:
+
+Html, CSS , Javascript , Node.js , Python , Flask , C++ , TailwindCSS etc.
+
+
+# My works:
+
++ Motionia.js
++ CSS Code generator.
++ Minimalist Like / Dislike system.
++ Text para phraser using NLTK and spacy.
++ Nlp Based Frontend CSS layout code generator.
++ Alertia.js
+
+
+# Some Facts:
+- I’m looking to collaborate on projects that are using Python.
+- I’m currently learning ML and Data Science.
+- :pencil2: I Write blogs on dev.to on free days.
+
+![alt text](./img/bottom.svg)
