@@ -22,6 +22,5 @@ Html, CSS , Javascript , Node.js , Python , Flask , C++ , TailwindCSS etc.
 # Some Facts:
 - I’m looking to collaborate on projects that are using Python.
 - I’m currently learning ML and Data Science.
-- :pencil2: I Write blogs on dev.to on free days.
 
 ![alt text](./img/bottom.svg)
