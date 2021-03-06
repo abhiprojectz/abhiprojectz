@@ -1,12 +1,12 @@
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>https://github.com/abhiprojectz/abhiprojectz/blob/master/README.md
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 I love coding in Python :snake: and Node.js.I make open source projects mostly.
 
 # Things i code in:
 
-Html, CSS , Javascript , Node.js , Python , Flask , C++ , TailwindCSS etc.
+Html, CSS , Javascript , Node.js , Python , Flask ,Django, Express.js, C++ , TailwindCSS etc.
 
 
 # My works:
@@ -18,6 +18,28 @@ Html, CSS , Javascript , Node.js , Python , Flask , C++ , TailwindCSS etc.
 + Nlp Based Frontend CSS layout code generator.
 + Alertia.js
 
+I also like to clone things using only CSS!
+
+# My Clones:
+
++ [Google search page clone](https://github.com/abhiprojectz/Google-search-clone)
++ [Hashnode page clone](https://github.com/abhiprojectz/hashnode-frontend-clone)
++ [LinkedIn home page clone]()
+
+I like to make games in JS also.
+
+# My games:
+
++ [Interrogation game](https://github.com/abhiprojectz/Interrogation-game)
++ [Coloria memory game]()
+
+# Tools:
+
++ [CSS Code generator](https://github.com/abhiprojectz/CSS-Generator)
++ [Gitrate](https://github.com/abhiprojectz/gitrate)
+
+
+There is a lot more to build :)
 
 # Some Facts:
 - I’m looking to collaborate on projects that are using Python.
