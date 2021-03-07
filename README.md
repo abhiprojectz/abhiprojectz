@@ -18,6 +18,14 @@ Html, CSS , Javascript , Node.js , Python , Flask ,Django, Express.js, C++ , Tai
 + Nlp Based Frontend CSS layout code generator.
 + Alertia.js
 
+
+# Tools:
+
++ [CSSMATE - Neural css code generator](https://github.com/abhiprojectz/CSSMATE)
++ [PhraseItUp- Text paraphraser/re-write](https://github.com/abhiprojectz/PhraseItUp)
++ [CSS Code generator](https://github.com/abhiprojectz/CSS-Generator)
++ [Gitrate](https://github.com/abhiprojectz/gitrate)
+
 I also like to clone things using only CSS!
 
 # My Clones:
@@ -33,10 +41,6 @@ I like to make games in JS also.
 + [Interrogation game](https://github.com/abhiprojectz/Interrogation-game)
 + [Coloria memory game]()
 
-# Tools:
-
-+ [CSS Code generator](https://github.com/abhiprojectz/CSS-Generator)
-+ [Gitrate](https://github.com/abhiprojectz/gitrate)
 
 
 There is a lot more to build :)
