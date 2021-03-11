@@ -42,11 +42,14 @@ I like to make games in JS also.
 + [Coloria memory game]()
 
 
+[![HitCount](http://hits.dwyl.com/abhiprojectz/abhiprojectz.svg)](http://hits.dwyl.com/abhiprojectz/abhiprojectz)
+
 
 There is a lot more to build :)
 
 # Some Facts:
 - I’m looking to collaborate on projects that are using Python.
 - I’m currently learning ML and Data Science.
+
 
 ![alt text](./img/bottom.svg)
