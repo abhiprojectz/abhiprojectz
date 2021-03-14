@@ -42,7 +42,7 @@ I like to make games in JS also.
 + [Coloria memory game]()
 
 
-[![HitCount](http://hits.dwyl.com/abhiprojectz/abhiprojectz.svg)](http://hits.dwyl.com/abhiprojectz/abhiprojectz)
+![](https://gpvc.arturio.dev/abhiprojectz)
 
 
 There is a lot more to build :)
