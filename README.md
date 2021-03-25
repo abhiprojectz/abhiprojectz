@@ -1,6 +1,6 @@
 I make open source projects mostly.
 
-# Things i code in:
+# Languages:
 
 Html, CSS , Javascript , Node.js , Python , Flask ,Django, Express.js, C++ , TailwindCSS.
 
@@ -36,9 +36,6 @@ I like to make games in JS also.
 
 ![](https://gpvc.arturio.dev/abhiprojectz)
 
-# Some Facts:
-- I’m looking to collaborate on projects that are using Python.
-- I’m currently learning ML and Data Science.
 
 # What do you think of this profile?
 
