@@ -42,3 +42,6 @@ I like to make games in JS also.
 [![](https://gitrate.herokuapp.com/happy?ref=abhiprojectz.abhiprojectz)](https://gitrate.herokuapp.com/happy/done?ref=abhiprojectz.abhiprojectz)
 
 [![](https://gitrate.herokuapp.com/unhappy?ref=abhiprojectz.abhiprojectz)](https://gitrate.herokuapp.com/unhappy/done?ref=abhiprojectz.abhiprojectz)
+
+
+*stats are updated realtime. 
