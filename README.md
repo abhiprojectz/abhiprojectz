@@ -1,5 +1,10 @@
 I make open source projects mostly.
 
+--> Creating NLPShala, the most awaiting tool for NLP!
+Now create your assignments, research papers with ease with the powerful NLP analysis!
+
+--> Busy in building & enhancing the [Sawaliram platform.](https://sawaliram.org/)
+
 # Languages:
 
 Html, CSS , Javascript , Node.js , Python , Flask ,Django, Express.js, C++ , TailwindCSS.
@@ -13,12 +18,6 @@ Html, CSS , Javascript , Node.js , Python , Flask ,Django, Express.js, C++ , Tai
 + [Gitrate](https://github.com/abhiprojectz/gitrate)
 
 I also like to clone things using only CSS!
-
-# Apis 
-
-+ [Booking rest api](https://github.com/abhiprojectz/Booking-Rest-Api)
-+ [Firebase tasks api](https://github.com/abhiprojectz/one17Task)
-+ [Restaurant orders frontend](http://anicode.in/tasks/)
 
 # My Clones:
 
