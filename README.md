@@ -1,6 +1,6 @@
 I make open source projects mostly.
 
---> Creating NLPShala, the most awaiting tool for NLP!
+--> Creating NLPShala [NLPShala](https://github.com/abhiprojectz/NLPShala), the most awaiting tool for NLP!
 Now create your assignments, research papers with ease with the powerful NLP analysis!
 
 --> Busy in building & enhancing the [Sawaliram platform.](https://sawaliram.org/)
@@ -13,6 +13,7 @@ Html, CSS , Javascript , Node.js , Python , Flask ,Django, Express.js, C++ , Tai
 # Tools:
 
 + [CSSMATE - Neural css code generator](https://github.com/abhiprojectz/CSSMATE)
++ [NLPShala](https://github.com/abhiprojectz/NLPShala)
 + [PhraseItUp- Text paraphraser/re-write](https://github.com/abhiprojectz/PhraseItUp)
 + [CSS Code generator](https://github.com/abhiprojectz/CSS-Generator)
 + [Gitrate](https://github.com/abhiprojectz/gitrate)
