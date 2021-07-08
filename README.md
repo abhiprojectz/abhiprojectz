@@ -30,6 +30,6 @@ I like to make games in JS also.
 + [Coloria memory game](https://github.com/abhiprojectz/abhiprojectz/issues)
 
 **Have questions ?**
-Create a issue [here]() and feel free to ask. 
+Create a issue [here](https://github.com/abhiprojectz/abhiprojectz/issues) and feel free to ask. 
 
 ![](https://gpvc.arturio.dev/abhiprojectz)
