@@ -10,7 +10,6 @@ Html/CSS/Javascript , Node.js , Python ,
 + [Gitrate](https://github.com/abhiprojectz/gitrate)
 + [CSSMATE - Neural css code generator](https://github.com/abhiprojectz/CSSMATE)
 + [PhraseItUp- Text paraphraser/re-write](https://github.com/abhiprojectz/PhraseItUp)
-+ [CSS Code generator](https://github.com/abhiprojectz/CSS-Generator)
 
 I also like to clone things using only CSS!
 
