@@ -4,10 +4,13 @@ I make open source projects mostly.
 
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
-=> Flask ,Django, TailwindCSS.
+=> Flask/Django, TailwindCSS.
 
 # Tools:
-+ [Gitrate](https://github.com/abhiprojectz/gitrate)
++ [NLPShala - First NLP IDE on the internet!](https://github.com/abhiprojectz/NLPShala)
++ [CSSGenX - UI Code generator](https://github.com/abhiprojectz/cssgenx)
++ [UniLink - Forget Manazing your links anymore!](https://github.com/abhiprojectz/unilink)
++ [Gitrate - Minimalist UpVoting System for GitHub Readme](https://github.com/abhiprojectz/gitrate)
 + [CSSMATE - Neural css code generator](https://github.com/abhiprojectz/CSSMATE)
 + [PhraseItUp- Text paraphraser/re-write](https://github.com/abhiprojectz/PhraseItUp)
 
