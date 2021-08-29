@@ -8,7 +8,6 @@ Html/CSS/Javascript , Node.js , Python ,
 
 # Tools:
 + [NLPShala - First NLP IDE on the internet!](https://github.com/abhiprojectz/NLPShala)
-+ [Resuma - Build Resume with just Markdown](https://github.com/abhiprojectz/resuma-Sawo)
 + [CSSGenX - UI Code generator](https://github.com/abhiprojectz/cssgenx)
 + [UniLink - Forget Manazing your links anymore!](https://github.com/abhiprojectz/unilink)
 + [Gitrate - Minimalist UpVoting System for GitHub Readme](https://github.com/abhiprojectz/gitrate)
