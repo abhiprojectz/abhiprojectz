@@ -1,6 +1,5 @@
 I make open source projects mostly + Libraries (Top library [Motionia.js](https://github.com/abhiprojectz/motionia).)
 
---> Busy in building & enhancing the [Sawaliram platform.](https://sawaliram.org/)
 
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
