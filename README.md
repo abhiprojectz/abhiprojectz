@@ -6,7 +6,7 @@ Html/CSS/Javascript , Node.js , Python ,
 => Flask/Django, TailwindCSS.
 
 # Tools:
-+ [CSSGenX - UI Code generator](https://github.com/abhiprojectz/cssgenx)
+
 + [UniLink - Forget Manazing your links anymore!](https://github.com/abhiprojectz/unilink)
 + [Gitrate - Minimalist UpVoting System for GitHub Readme](https://github.com/abhiprojectz/gitrate)
 + [CSSMATE - Neural css code generator](https://github.com/abhiprojectz/CSSMATE)
