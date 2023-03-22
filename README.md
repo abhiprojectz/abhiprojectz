@@ -1,5 +1,8 @@
 I make open source projects mostly + Libraries (Top library [Motionia.js](https://github.com/abhiprojectz/motionia).)
 
+** Currently Building -** ZexUI - Easiest & powerfull way to automate anything on any platform!
+
+**Upcoming 2023 -** ZoraPy - Mordern way to deal with mp4 in python.
 
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
