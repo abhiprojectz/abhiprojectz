@@ -1,10 +1,6 @@
 I make open source projects mostly + Libraries (Top library [Motionia.js](https://github.com/abhiprojectz/motionia).)
 
-**InProgress -** SingularGPT : Aims to automate complex tasks and any plaform including Linux, Windows, Android/ios or even Raspberry Pi.
-
-**Currently Building -** ZexUI - Easiest & powerfull way to automate anything on any platform!
-
-**Upcoming 2023 -** ZoraPy - Mordern way to deal with mp4 in python.
+[SingularGPT](https://github.com/abhiprojectz/SingularGPT) - SingularGPT - Automate your device using AI based vision.
 
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
