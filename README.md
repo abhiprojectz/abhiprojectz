@@ -1,6 +1,3 @@
-I make open source projects mostly + Libraries (Top library [Motionia.js](https://github.com/abhiprojectz/motionia).)
-
-[SingularGPT](https://github.com/abhiprojectz/SingularGPT) - SingularGPT - Automate your device using AI based vision.
 
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
