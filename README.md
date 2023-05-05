@@ -1,3 +1,5 @@
+Currently building **NCERT-GPT** , Ai based tutor that leverages AI for all academic needs and is based on CBSE/ICSE boards , in future covering all states board as well.
+
 
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
