@@ -1,4 +1,4 @@
-Currently building **NCERT-GPT** , Ai based tutor that leverages AI for all academic needs and is based on CBSE/ICSE boards , in future covering all states board as well.
+Building **UnExam** , Dynamic domain specific solution to all academic needs backed by AI.
 
 
 # Languages:
