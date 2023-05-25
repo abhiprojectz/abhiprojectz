@@ -1,5 +1,6 @@
 Building **UnExam** , Dynamic domain specific solution to all academic needs backed by AI.
 
+Upcoming **APIGPT** , Access industry level solutions by just text queries , made extremely simple. (Better and simple than RapidAPI and family & highly customizable)
 
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
