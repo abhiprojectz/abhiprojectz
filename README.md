@@ -2,6 +2,8 @@ Building **UnExam** , Dynamic domain specific solution to all academic needs bac
 
 Upcoming **APIGPT** , Access industry level solutions by just text queries , made extremely simple. (Better and simple than RapidAPI and family & highly customizable)
 
+Future plan **LLMEngines** , Straightforward workflows to manage, execute synchronous tasks in Vision, Text , Audio.
+
 # Languages:
 Html/CSS/Javascript , Node.js , Python , 
 => Flask/Django, TailwindCSS.
