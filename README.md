@@ -31,4 +31,4 @@ I like to make games in JS also.
 **Have questions ?**
 Create a issue [here](https://github.com/abhiprojectz/abhiprojectz/issues) and feel free to ask. 
 
-![](https://gpvc.arturio.dev/abhiprojectz)
+![](https://komarev.com/ghpvc/?username=abhiprojectz) [After 18-6-23]
