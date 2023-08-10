@@ -1,10 +1,3 @@
-# About
-Bounty hacker with 15+ Projects from MVPs to Saas platforms.
-
-# Languages:
-Html/CSS/Javascript , Node.js , Python , 
-=> Flask/Django, TailwindCSS.
-
 # Tools:
 
 + [OneNLP - Playground for all natural language processing tasks](https://github.com/abhiprojectz/Onenlp)
