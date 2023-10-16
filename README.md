@@ -8,6 +8,8 @@
 
 I also like to clone things using only CSS!
 
+<a href="https://www.buymeacoffee.com/abhidev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 # My Clones:
 + [Google search page clone](https://github.com/abhiprojectz/Google-search-clone)
 + [Hashnode page clone](https://github.com/abhiprojectz/hashnode-frontend-clone)
