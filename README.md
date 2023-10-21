@@ -1,4 +1,4 @@
-Building [**UnTips**](https://github.com/abhiprojectz/untips) , AI based support page & e-commerce platform with out of the box customizability.
+Building [ZetaParser](https://github.com/abhiprojectz/ZetaParser)  , The ultimate GPT Based parser with auto pipelines that can parse any unstructured data with ease. 
 
 
 # Tools:
