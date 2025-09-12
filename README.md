@@ -1,4 +1,4 @@
-Email: abhi22cse@gmail.com
+Email: abhishek22cse@gmail.com
 
 Read Reviews by 30+ Founders on real world projects/MVPs as part of Replit's Bounty dev team: [View](https://replit.com/@abhiofficial)
 
