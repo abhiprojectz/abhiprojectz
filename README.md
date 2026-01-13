@@ -54,11 +54,7 @@ I actively contributed to Sawaliram (an open platform for student questions & ex
 - Starstruck ×2  
 - GitHub Developer Program Member
 
-On Replit's page - Click on this btn 
-
-[![image](https://github.com/user-attachments/assets/ff5274e0-fa42-4d72-828f-c2d0a717a44f)](https://replit.com/@abhiofficial)
-
-To open review list just like as below.
+On Replit's page - To open review list just like as below.
 
 <img src="https://github.com/user-attachments/assets/69063ab0-0344-4d45-94c0-433b58f0188c" style="width: 45%;" alt="IMG_20240713_130349_452" />
 
