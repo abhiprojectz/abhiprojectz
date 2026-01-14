@@ -36,23 +36,16 @@ Worked on bug fixes, feature enhancements, multilingual support, performance imp
 I actively contributed to Sawaliram (an open platform for student questions & expert answers) with several **merged PRs** that improved stability, performance, usability, and internationalization.
 
 **Key Challenges & Solutions:**
-- Fixed data integrity issues (e.g., Null userId errors, translation bugs, incorrect search counts) to ensure reliable content delivery.
 - Enhanced internationalization (i18n) by making slugs multilingual, fixing translation workflows, and adding credits for translators and submitters (e.g., breadcrumb navigation in translation interface - [#378](https://github.com/sawaliram/sawaliram/pull/378)).
-- Improved performance by restoring compatibility with stable library versions (e.g., xlrd downgrade for Excel parsing stability) and introducing compressor-based static file minification [](https://github.com/sawaliram/sawaliram/pull/430).
-- Designed and implemented UI/UX improvements, including responsive sign-in flows, image upload functionality for CKEditor [](https://github.com/sawaliram/sawaliram/pull/432), and cleaner bibliographic presentation for research pages.
+- Improved performance by restoring compatibility with stable library versions (e.g., xlrd downgrade for Excel parsing stability) and introducing compressor-based static file minification [#430](https://github.com/sawaliram/sawaliram/pull/430).
 - Contributed to content management features like breadcrumb navigation, credits system for translations, and compressed article delivery (e.g., article cover image compression reducing size by ~50% - [#431](https://github.com/sawaliram/sawaliram/pull/431)).
-
-**Measurable Impact:**
-- Resolved 10+ high-priority production bugs, improving platform stability for thousands of end users.
-- Reduced page load time by ~30% with static file compression [](https://github.com/sawaliram/sawaliram/pull/431).
-- Improved translation accuracy and adoption across multiple languages with fixes to article/answer translation bugs [](https://github.com/sawaliram/sawaliram/pull/368).
-- Enabled seamless content authoring by integrating CKEditor image uploads [](https://github.com/sawaliram/sawaliram/pull/432).
-- Strengthened user engagement with responsive UI fixes [](https://github.com/sawaliram/sawaliram/pull/381).
-
+- Improved translation accuracy and adoption across multiple languages with fixes to article/answer translation bugs [#368](https://github.com/sawaliram/sawaliram/pull/368).
+- Enabled seamless content authoring by integrating CKEditor image uploads [#432](https://github.com/sawaliram/sawaliram/pull/432).
+- Fixed data integrity issues (e.g., Null userId errors, translation bugs, incorrect search counts) to ensure reliable content delivery.
+  
 ### 🏆 GitHub Achievements
 - Pull Shark ×2  
 - Starstruck ×2  
-- GitHub Developer Program Member
 
 On Replit's page - To open review list just like as below.
 
